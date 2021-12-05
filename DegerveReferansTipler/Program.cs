@@ -19,8 +19,6 @@ namespace DegerVeReferansTipler
             sayiler1 = sayiler2;
             sayiler2[0] = 999;
             Console.WriteLine(sayiler1[0]);
-
-
         }
     }
 }
