@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matematik", "Matematik\Matematik.csproj", "{DAAF4CAA-FCD3-49CD-B3D2-B92204BB8F75}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerVeReferansTipler", "DegerveReferansTipler\DegerVeReferansTipler.csproj", "{F10E2892-9195-4208-8A57-B00AE9A351E9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{DAAF4CAA-FCD3-49CD-B3D2-B92204BB8F75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DAAF4CAA-FCD3-49CD-B3D2-B92204BB8F75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DAAF4CAA-FCD3-49CD-B3D2-B92204BB8F75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F10E2892-9195-4208-8A57-B00AE9A351E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F10E2892-9195-4208-8A57-B00AE9A351E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F10E2892-9195-4208-8A57-B00AE9A351E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F10E2892-9195-4208-8A57-B00AE9A351E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
