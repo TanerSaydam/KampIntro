@@ -18,6 +18,16 @@ namespace GenericsIntro
                 Console.WriteLine(item);
             }
 
+            Dictionary<string> sehirler = new Dictionary<string>();
+            sehirler.Add("Kayseri");
+            sehirler.Add("Ankara");
+            sehirler.Add("Sivas");
+
+            foreach (var item in sehirler.İtems)
+            {
+                Console.WriteLine(item);
+            }
+
             Console.ReadLine();
         }
     }
